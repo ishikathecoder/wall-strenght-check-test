@@ -1,2 +1,1 @@
-# GCSO
-GCSO
+# wall strenght check test
